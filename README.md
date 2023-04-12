@@ -6,3 +6,6 @@ Welcome to tusk-sen Kitchen
 
 Kheer
 Daal
+
+Beans
+Pizza
